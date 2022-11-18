@@ -1,2 +1,21 @@
-# simple-folder-search
-Search for folders within your home folder
+# Simple Folder Search
+
+Search for folders within your home folder.
+
+![Simple Folder Search Workflow](/Resources/simple-folder-search.png)
+
+<a href='https://github.com/alfredapp/simple-folder-search/releases/latest/download/Simple Folder Search.alfredworkflow'>⤓ Download Workflow</a>
+
+## Usage
+
+Use your keyword to find files located inside your home folder.
+
+Press Return to open the folder in Finder, or Alt + Return to reveal it in Finder instead.
+
+## Configuration
+
+The keyword is set via the *Configure Workflow...* at the top of the workflow canvas.
+
+You can change the file types searched by opening the File Filter object to *Basic Setup* and adding File Types.
+
+To change the search scope of the workflow, go to the *Search Scope* tab and drag in any path you want to include.
