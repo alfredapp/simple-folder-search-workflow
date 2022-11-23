@@ -156,6 +156,8 @@
 
 Search for folders within your home folder.
 
+![Simple Folder Search Workflow](/Resources/simple-folder-search.png)
+
 ## Usage
 
 Use your keyword to find files located inside your home folder.
@@ -164,11 +166,11 @@ Press Return to open the folder in Finder, or Alt + Return to reveal it in Finde
 
 ## Configuration
 
-The keyword is set via the _Configure Workflow..._ at the top of the workflow canvas.
+The keyword is set via the *Configure Workflow...* at the top of the workflow canvas.
 
-You can change the file types searched by opening the File Filter object to _Basic Setup_ and adding File Types.
+You can change the file types searched by opening the File Filter object to *Basic Setup* and adding File Types.
 
-To change the search scope of the workflow, go to the _Search Scope_ tab and drag in any path you want to include.</string>
+To change the search scope of the workflow, go to the *Search Scope* tab and drag in any path you want to include.</string>
 	<key>uidata</key>
 	<dict>
 		<key>097910A9-1875-4779-9359-530BE0CC763B</key>
@@ -192,7 +194,7 @@ To change the search scope of the workflow, go to the _Search Scope_ tab and dra
 		<key>D97234CC-4D00-4B8D-A115-5919C89B2B02</key>
 		<dict>
 			<key>note</key>
-			<string>1. This File Filter is set to present folders only, so type "f" followed by the name of your folder. The scope is set to home folder only.</string>
+			<string>1. This File Filter is set to present folders only. Type your keyword followed by the name of your folder. The scope is set to home folder only.</string>
 			<key>xpos</key>
 			<real>50</real>
 			<key>ypos</key>
@@ -223,8 +225,10 @@ To change the search scope of the workflow, go to the _Search Scope_ tab and dra
 			<string>keyword</string>
 		</dict>
 	</array>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string>2022.1</string>
+	<string>2022.2</string>
 	<key>webaddress</key>
 	<string>https://www.alfredapp.com</string>
 </dict>
