@@ -2,7 +2,7 @@
 
 Search for folders within your home folder.
 
-![Simple Folder Search Workflow](/Resources/simple-folder-search.png)
+![Simple Folder Search Workflow](/images/simple-folder-search.png)
 
 <a href='https://github.com/alfredapp/simple-folder-search/releases/latest/download/Simple.Folder.Search.alfredworkflow'>⤓ Download Workflow</a>
 
